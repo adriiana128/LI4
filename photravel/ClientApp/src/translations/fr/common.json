@@ -1,0 +1,6 @@
+{
+    "welcome": {
+        "title": "Bienvenue dans le {{framework}}",
+        "intro": "Pour commencer, éditez <1><0></0></1> et enregistrez pour recharger."
+    }
+}

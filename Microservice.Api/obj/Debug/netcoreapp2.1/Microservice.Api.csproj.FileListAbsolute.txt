@@ -1,0 +1,40 @@
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.deps.json
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.runtimeconfig.json
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.runtimeconfig.dev.json
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.dll
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.pdb
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Application.dll
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.CrossCutting.dll
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Domain.dll
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Persistance.dll
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Application.pdb
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Persistance.pdb
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.CrossCutting.pdb
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Domain.pdb
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.csprojAssemblyReference.cache
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.csproj.CoreCompileInputs.cache
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.RazorAssemblyInfo.cache
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.RazorAssemblyInfo.cs
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.AssemblyInfoInputs.cache
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.AssemblyInfo.cs
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.RazorTargetAssemblyInfo.cache
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.csproj.CopyComplete
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.dll
+C:\Users\joses\source\repos\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.pdb
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.AssemblyInfoInputs.cache
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.AssemblyInfo.cs
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.csproj.CoreCompileInputs.cache
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.RazorAssemblyInfo.cache
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.RazorAssemblyInfo.cs
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.deps.json
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.runtimeconfig.json
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.runtimeconfig.dev.json
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.dll
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\bin\Debug\netcoreapp2.1\Microservice.Api.pdb
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.RazorTargetAssemblyInfo.cache
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.dll
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.pdb
+C:\Users\joses\OneDrive - Checkmarx\Desktop\JoseS\training-projects\Microservice\Microservice\Microservice\Microservice.Api\obj\Debug\netcoreapp2.1\Microservice.Api.genruntimeconfig.cache
